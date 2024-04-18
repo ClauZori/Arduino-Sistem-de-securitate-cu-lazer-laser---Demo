@@ -1,4 +1,4 @@
-# Laser-security-system---Demo
+# Arduino-Laser-security-system-Demo
 
 The main purpose of the laser security system is to ensure effective monitoring of the protected area against intruders or unauthorized disturbances. It must provide a quick and efficient response to the detection of any changes in the laser beam, thus ensuring the security of the location.
 
